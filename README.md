@@ -1,1 +1,2 @@
-"# Corenyatcha_TG" 
+# Corenyatcha Template Generator
+# IN-PRORESS...
