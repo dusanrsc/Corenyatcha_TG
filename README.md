@@ -1,5 +1,5 @@
 # Corenyatcha Template Generator
-# IN DEVELOPMENT STAGE
+# IN DEVELOPMENT STAGE...
 
 # Screenshots:
 # main
