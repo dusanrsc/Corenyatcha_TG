@@ -1,8 +1,10 @@
 # Corenyatcha Template Generator
 # IN EARLY DEVELOPMENT STAGE...
 
+# NOTE: ONLY (HTML, CSS, Bootstrap, JS) TEMPLATE ARE WORKIG FOR NOW, ALSO FULLY REFACTORIZATION NEEDED!!
+
 # Screenshots:
-# main
+# Main Screenshot.
 ![main_screenshot](https://github.com/user-attachments/assets/f37326ed-c381-4281-8215-efa0b22ddd5a)
 
 # HTML, CSS, Bootstrap, JS
