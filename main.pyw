@@ -165,7 +165,7 @@ def main():
 	def generate_django_template(project_name="Django_Project", env_path=os.getcwd()):
 
  		# Installing Python.
-   		# winget install --id Docker.DockerDesktop
+   		# winget install --id Python.Python.3.10
 
 		# Upgrading pip.
 		os.system("python.exe -m pip install --upgrade pip")
