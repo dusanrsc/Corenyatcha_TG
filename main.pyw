@@ -54,6 +54,9 @@ def main():
 	html_space = "&nbsp;"
 	html_break = "<br/>"
 
+	# This list would override HTML & CSS operators.
+	html_operators = ["&nbsp;", "<br/>"]
+
 	# Template content variable
 	html_template_title = f"Generated via Corenyatcha Template Generator {__version__}!"
 	html_template_heading = f"Generated via Corenyatcha{html_break}Template Generator {__version__}!"
