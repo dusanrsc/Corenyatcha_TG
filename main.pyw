@@ -8,7 +8,7 @@ from tkinter import *
 from PIL import Image, ImageTk
 
 # Main program function.
-def main():
+def main() -> None:
 
 	# Settings section.
 	# Constants sestion.
@@ -149,15 +149,15 @@ def main():
 
 
 	# Program logic section.
-	def create_directory():
+	def create_directory() -> None:
 		#os.system(f"mkdir {current_directory}{dir_name}")
 		print(path)
 
 	# {Comment}
-	def create_virtualenv():
+	def create_virtualenv() -> None:
 		pass
 
-	def generate_html_css_bootstrap_javascript_template():
+	def generate_html_css_bootstrap_javascript_template() -> None:
 		#if not os.path.exists():
     		#os.makedirs("html")
 
@@ -165,7 +165,7 @@ def main():
 			file.write(html_template_body)
 
 	# {Comment}
-	def generate_django_template(project_name="Django_Project", env_path=os.getcwd()):
+	def generate_django_template(project_name="Django_Project", env_path=os.getcwd()) -> None:
 
  		# Installing Python.
    		# winget install --id Python.Python.3.10
@@ -189,7 +189,7 @@ def main():
 		#os.system(f"django-admin startproject {project_name}")
 
 	# {Comment}
-	def generate_tkinter_template(project_name="Tkinter_Main"):
+	def generate_tkinter_template(project_name="Tkinter_Main") -> None:
 		with open(f"{project_name}.pyw", "w") as file:
 			file.write("""# Importing modules.
 import tkinter
@@ -205,7 +205,7 @@ root.mainloop()
 """)
 
 	# {Comment}
-	def generate_pygame_template(project_name="Pygame_Main"):
+	def generate_pygame_template(project_name="Pygame_Main") -> None:
 		with open(f"{project_name}.pyw", "w") as file:
 			file.write("""# Importing modules.
 import pygame
@@ -255,7 +255,7 @@ MOUSE_VISIBILITY = pygame.mouse.set_visible(mouse_visibility)
 
 # Functions section.
 # Exit game function.
-def exit():
+def exit() -> None:
     pygame.quit()
     sys.exit()
     running = False
