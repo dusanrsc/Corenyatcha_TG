@@ -46,7 +46,7 @@ MOUSE_VISIBILITY = pygame.mouse.set_visible(mouse_visibility)
 
 # Functions section.
 # Exit game function.
-def exit():
+def exit() -> None:
     pygame.quit()
     sys.exit()
     running = False
