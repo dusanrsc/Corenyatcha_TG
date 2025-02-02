@@ -8,12 +8,10 @@
 </div>
 <br>
 
-# TextWave is visual application for Android developed in game engine.
-
-# Corenyatcha Template Generator
+# Corenyatcha Template Generator Mainly In Python...
 # IN EARLY DEVELOPMENT STAGE...
 
-# NOTE: ONLY (HTML, CSS, Bootstrap, JS) TEMPLATE ARE WORKIG FOR NOW, ALSO FULLY REFACTORIZATION NEEDED!!
+# NOTE: NOT FINISHED AND ALSO FULLY REFACTORIZATION NEEDED!!!
 
 # Screenshots:
 # Main Screenshot.
