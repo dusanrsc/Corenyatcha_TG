@@ -1,3 +1,11 @@
+<div style="container" align="center">
+  <br>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="80%" />
+</div>
+<br>
+
+# TextWave is visual application for Android developed in game engine.
+
 # Corenyatcha Template Generator
 # IN EARLY DEVELOPMENT STAGE...
 
