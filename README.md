@@ -3,6 +3,9 @@
   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="20%" />
   <img src="https://logodix.com/logo/1758841.png" width="20%" />
   <img src="https://freepngdesign.com/content/uploads/images/javascript-logo-7539.png" width="25%" />
+  <img src="https://www.pngfind.com/pngs/m/683-6834213_transparent-html-logo-png-png-download.png" width="20%" />
+  <img src="" width="20%" />
+  
   <img src="" width="20%" />
 </div>
 <br>
