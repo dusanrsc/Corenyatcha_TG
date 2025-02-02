@@ -14,7 +14,6 @@
 # NOTE: NOT FINISHED AND ALSO FULLY REFACTORIZATION NEEDED!!!
 
 # Screenshots:
-# Main Screenshot.
 ![main_screenshot](https://github.com/user-attachments/assets/f37326ed-c381-4281-8215-efa0b22ddd5a)
 
 # HTML, CSS, Bootstrap, JS
