@@ -1,6 +1,6 @@
 <div style="container" align="center">
   <br>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="40%" />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="20%" />
 </div>
 <br>
 
