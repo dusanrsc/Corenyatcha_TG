@@ -3,7 +3,7 @@
   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="20%" />
   <img src="https://logodix.com/logo/1758841.png" width="20%" />
   <img src="https://freepngdesign.com/content/uploads/images/javascript-logo-7539.png" width="25%" />
-  <img src="https://www.fullstackpython.com/img/logos/django-rest-framework.png" width="20%" />
+  <img src="https://www.fullstackpython.com/img/logos/django-rest-framework.png" width="40%" />
   <img src="" width="20%" />
   
   <img src="" width="20%" />
