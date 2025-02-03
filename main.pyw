@@ -40,7 +40,7 @@ def main() -> None:
 
 	# Thunder variable (metadata).
 	__version__ = "v1.0.0"
-	__updated__ = "12.12.2024"
+	__updated__ = "03.02.2025"
 	__tag__ = "@dusanrsc"
 	__by__ = "Dusan Rosic"
 
